@@ -8,3 +8,6 @@ utilizaremos a biblioteca BootStrap, que nos permite fazer uso de estilos CSS pr
 Assumimos que você possui conhecimento básico de estilos CSS. Os exemplos aqui mostrados serão apenas um pouco mais complexos
 que os vistos anteriormente em "introducao", mas são de fácil compreensão. Aconselho a estudar um pouco sobre BootStrap antes
 de utilizar os exemplos aqui como base.
+
+Também assumimos que já possui conhecimento básico a cerca dos componentes REACT e como são usados, as explicações presentes aqui
+serão mais relacionadas ao funcionamento do código em si.
