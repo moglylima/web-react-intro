@@ -11,3 +11,8 @@ de utilizar os exemplos aqui como base.
 
 Também assumimos que já possui conhecimento básico a cerca dos componentes REACT e como são usados, as explicações presentes aqui
 serão mais relacionadas ao funcionamento do código em si.
+
+Aqui, utilizaremos, em ambos os projetos o UseState, para modificar o estado das variáveis através das ações nos formulários html.
+Se você não conhece o UseState ou não programou antes utilizando estados, abaixo, segue link para documentação a cerca do UseState.
+
+  https://beta.reactjs.org/apis/react/useState
