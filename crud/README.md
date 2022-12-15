@@ -1,6 +1,6 @@
 # **Diretório CRUD**
 
-## **Obvervasão**
+## **Obvervação**
 
 Aqui estará presente o código de um projeto mais complexo e melhor elaborado. Para o entendimento do código aqui presente,
 você precisará de um conhecimento mais avançado de programação. Ainda assim, o código está bem simples e de fácil compreensão.
